@@ -31,7 +31,4 @@ Bloom's Taxonomy is a framework used to categorize learning objectives and asses
 - Recalling information
 - Basic DevSecOps terminology
 
----
-
-© Copyright DevOps Institute unless otherwise stated
 

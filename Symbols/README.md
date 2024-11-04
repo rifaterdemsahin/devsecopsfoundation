@@ -1,5 +1,5 @@
-# devsecopsfoundation
-DevSecOps Foundation hands on imple
+# 🎯 Real - Objectives and Key Results (OKRs)
 
+## Code Implementation Examples
 
-git pull; git add . ; git commit -m "workstation local " ; git push;clear
+### 1. OKR Tracking System
